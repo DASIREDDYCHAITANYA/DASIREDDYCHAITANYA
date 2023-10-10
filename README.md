@@ -1,3 +1,4 @@
+![logo](https://github.com/DASIREDDYCHAITANYA/DASIREDDYCHAITANYA/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm D .CHAITANYA</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img aligin=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_VaHiddzuonKB3Y2hhQAGptsb_HmXJleJg&usqp=CAU”>
