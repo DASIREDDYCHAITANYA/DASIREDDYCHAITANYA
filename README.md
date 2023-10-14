@@ -14,6 +14,7 @@
 - 📫 How to reach me **cherrychaitu054@gmail.com**
 
 - ⚡ Fun fact **I am crazy**
+   ## OPEN SOURCE CONTRIBUTIONS 🎉 !! 
 <div align="center">
 	
 <p>  <picture>
