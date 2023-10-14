@@ -14,6 +14,25 @@
 - 📫 How to reach me **cherrychaitu054@gmail.com**
 
 - ⚡ Fun fact **I am crazy**
+- <div align="center">
+	
+  <picture>
+    <source 
+	    media="(prefers-color-scheme: light)" 
+	    srcset="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png"
+    >
+    <source 
+	    media="(prefers-color-scheme: dark)" 
+	    srcset="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png"
+    >
+    <img 
+	    alt="Girlscript Summer of Code" 
+	    width=80% 
+	    src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png"
+    >
+  </picture>
+  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
