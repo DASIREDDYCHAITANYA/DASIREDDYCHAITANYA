@@ -1,4 +1,4 @@
-![logo](https://github.com/DASIREDDYCHAITANYA/DASIREDDYCHAITANYA/blob/main/baner.png)
+
 <h1 align="center">Hi 👋, I'm D .CHAITANYA</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img aligin=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_VaHiddzuonKB3Y2hhQAGptsb_HmXJleJg&usqp=CAU”>
@@ -14,9 +14,9 @@
 - 📫 How to reach me **cherrychaitu054@gmail.com**
 
 - ⚡ Fun fact **I am crazy**
-- <div align="center">
+<div align="center">
 	
-  <picture>
+<p>  <picture>
     <source 
 	    media="(prefers-color-scheme: light)" 
 	    srcset="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png"
@@ -30,7 +30,7 @@
 	    width=80% 
 	    src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png"
     >
-  </picture>
+  </picture></p>
   
 </div>
 
