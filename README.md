@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm D .CHAITANYA</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img aligin=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_VaHiddzuonKB3Y2hhQAGptsb_HmXJleJg&usqp=CAU”>
+<img aligin=“right” alt=“coding” width=“400” src=“![gafa](https://github.com/DASIREDDYCHAITANYA/DASIREDDYCHAITANYA/assets/147218123/50b49f23-ed44-4e53-ba4b-1b0067413135)
+”>
 
 - 🔭 I’m currently working on **TO provide jobs for uneducaters**
 
