@@ -1,4 +1,13 @@
-
+<div id="header" align="center"> 
+  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/> 
+</div> 
+<br /> 
+<div id="badges" align="center" style="margin-top:20px"> 
+  <a href="https://www.linkedin.com/in/chaitu2004chaitu/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  
+</div>
 <h1 align="center">Hi 👋, I'm D .CHAITANYA</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
