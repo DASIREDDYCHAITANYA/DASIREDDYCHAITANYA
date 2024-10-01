@@ -9,22 +9,22 @@
   
 </div>
 <h1 align="center">Hi 👋, I'm D .CHAITANYA</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Machine Learning developer from India</h3>
 
 
 
-- 🔭 I’m currently working on **TO provide jobs for uneducaters**
+- 🔭 I’m currently working on **Nurel networks **
 
-- 🌱 I’m currently learning **Block chain**
 
-- 👯 I’m looking to collaborate on **Web developers**
 
-- 💬 Ask me about **web applications**
+- 👯 I’m looking to collaborate on **Artificial intelligence**
+
+- 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **cherrychaitu054@gmail.com**
 
 - ⚡ Fun fact **I am crazy**
-   ## OPEN SOURCE CONTRIBUTIONS 🎉 !! 
+   ## OPEN SOURCE CONTRIBUTER 🎉 !! 
 <div align="center">
 	
 <p>  <picture>
