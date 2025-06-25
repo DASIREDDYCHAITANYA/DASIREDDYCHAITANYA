@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Nurel networks **
+- 🔭 I’m currently working on **GEN-AI **
 
 
 
