@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Machine learning**
 
-- 📫 How to reach me **cherrychaitu054@gmail.com**
+- 📫 How to reach me **dasireddychaitanya@gmail.com**
 
 - ⚡ Fun fact **I am crazy**
    ## OPEN SOURCE CONTRIBUTER 🎉 !! 
